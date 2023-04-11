@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.content {
+	background-image: url(../Images/background.jpg);
+	background-size: 1000px;
+}
+.Page {
+	color: aliceblue;
+	margin-right: 50px;
+	margin-left: 50px;
+  text-align: center;
+	background-color: rgba(66, 66, 66, 0.411);
+}
+.chapter-title {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-size: 35px;
+  color: aliceblue;
+	background-color: rgba(0, 0, 0, 0.507);
+  text-align: center;
+}
+.container-text {
+	padding-top: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-size: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: auto;
+  color: aliceblue;
+  text-align: left;
+	background-color: rgba(32, 32, 32, 0.836);
+}
+.spisok {
+	padding-top: 20px;
+}
